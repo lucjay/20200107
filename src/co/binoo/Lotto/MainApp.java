@@ -12,7 +12,7 @@ public class MainApp {
 		a = scanner.nextInt();
 		scanner.nextLine();
 
-		Lotto.setMoney(a);
+		// Lotto.class();
 
 	}
 
