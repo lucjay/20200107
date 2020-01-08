@@ -1,4 +1,4 @@
-package co.jooyoung.Lotto;
+package co.binoo.Lotto;
 
 public class Lotto {
 	private int money;

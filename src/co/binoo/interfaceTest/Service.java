@@ -1,4 +1,4 @@
-package co.jooyoung.interfaceTest;
+package co.binoo.interfaceTest;
 
 public interface Service {
 public void insert();

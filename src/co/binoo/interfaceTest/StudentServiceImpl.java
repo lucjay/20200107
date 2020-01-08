@@ -1,9 +1,9 @@
-package co.jooyoung.interfaceTest;
+package co.binoo.interfaceTest;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import co.jooyoung.scope.Student;
+import co.binoo.scope.Student;
 
 public class StudentServiceImpl implements Service {
 	private ArrayList<Student> stuList;

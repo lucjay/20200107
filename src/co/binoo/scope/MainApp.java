@@ -1,8 +1,8 @@
-package co.jooyoung.scope;
+package co.binoo.scope;
 
-import co.jooyoung.interfaceTest.MemberServiceImpl;
-import co.jooyoung.interfaceTest.Service;
-import co.jooyoung.interfaceTest.StudentServiceImpl;
+import co.binoo.interfaceTest.MemberServiceImpl;
+import co.binoo.interfaceTest.Service;
+import co.binoo.interfaceTest.StudentServiceImpl;
 
 public class MainApp {
 	

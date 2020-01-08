@@ -1,9 +1,9 @@
-package co.jooyoung.interfaceTest;
+package co.binoo.interfaceTest;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import co.jooyoung.scope.Member;
+import co.binoo.scope.Member;
 
 public class MemberServiceImpl implements Service {
 	// private Member mem; // Member클래스를 사용하기 위해 Import하고 mem 이란 인스턴스 정의

@@ -1,4 +1,4 @@
-package co.jooyoung.scope;
+package co.binoo.scope;
 
 public class Member {
 private String id;

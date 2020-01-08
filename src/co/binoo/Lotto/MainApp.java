@@ -1,4 +1,4 @@
-package co.jooyoung.Lotto;
+package co.binoo.Lotto;
 
 import java.util.Scanner;
 
